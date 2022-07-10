@@ -1,6 +1,6 @@
 import os,time,random
 from time import sleep
-from setuptools import py3
+from setuptools import setup
 from Cython.Build import cythonize
 P = '\x1b[1;97m' # white
 M = '\x1b[1;91m' # red
